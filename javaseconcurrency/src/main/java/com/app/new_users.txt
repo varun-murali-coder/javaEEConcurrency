@@ -1,0 +1,10 @@
+james@gmail.com,James pudding,1001
+emawatson@gmail.com,Emma watson,1002
+sunny@gmail.com,Sunny singh,1003
+malfo@gmail.com,Malfoy Grevich,1004
+hardy@gmail.com,Hardley davidson,1005
+Rick@gmail.com,Ricky ponting,1006
+paine@gmail.com,Tim paine,1007
+suresh@gmail.com,Raina suresh,1008
+sivam@gmail.com,Shivam dubey,1009
+sanj@bansali.com,Sanjay bansali,1010
